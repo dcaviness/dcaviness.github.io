@@ -1,6 +1,4 @@
-# dcaviness.github.io
-
-thegeospatialgroup.com
+# Don Caviness
 
 ## The Geospatial Group
 Ridgeland, MS
