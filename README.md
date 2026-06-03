@@ -6,4 +6,4 @@ thegeospatialgroup.com
 Ridgeland, MS
 https://thegeospatialgroup.com/
 
-[in/don-caviness-00b9821b](https://www.linkedin.com/in/don-caviness-00b9821b)
+[linkedin](https://www.linkedin.com/in/don-caviness-00b9821b)
